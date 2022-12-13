@@ -1,0 +1,11 @@
+![](images/schema.png)
+![](images/vpc1.png)
+![](images/vpc2.png)
+![](images/r1_vlan10(l2).png)
+![](images/r1_vlan20(l2).png)
+![](images/r2_vlan10(l2).png)
+![](images/r2_vlan20(l2).png)
+![](images/r3_vlan10(l2).png)
+![](images/r3_vlan20(l2).png)
+![](images/router(l3).png)
+
